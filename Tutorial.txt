@@ -1,0 +1,5 @@
+1. Saat membuka cmd, install Sastrawi dan KBBI. 'pip install Sastrawi' & 'pip install KBBI'
+
+2. Kemudian untuk run programnya 'python tugas_pekan_9_nlp_wsd_lesk.py'
+
+3. Kemudian akan dikeluarkan output sense, gloss, examples dari 3 kata target dan hasil prediksi kalimat uji menggunakan algoritma Lesk
